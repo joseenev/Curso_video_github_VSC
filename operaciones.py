@@ -1,5 +1,7 @@
 num1=4
 num2=5
+num8=10
+num9=12
 
 def suma(n1,n2):
     
