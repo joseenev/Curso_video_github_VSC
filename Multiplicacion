@@ -1,0 +1,7 @@
+num3=4
+num4=8
+
+def multiplicacion(n1,n2):
+  return n1*n2
+  
+multiplicacion(num3,num4)
